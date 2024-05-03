@@ -8,7 +8,9 @@
 
 }
 
-* {
-    text-align: center;
-    background-color: sandybrown;
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
 }

@@ -4,13 +4,18 @@
 }
 
 .p{
-    color:red;
-
+    color:red;
 }
 
 .header {
   padding: 30px;
   font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+.header2 {
+  padding: 30px;
   text-align: center;
   background: white;
 }

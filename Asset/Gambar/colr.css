@@ -29,3 +29,8 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+#imgnur {
+  width: 20px;
+  height: 20px;
+}

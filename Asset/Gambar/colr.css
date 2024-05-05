@@ -7,7 +7,8 @@
 }
 
 .p{
-    color:red;
+    color:red;
+
 }
 
 .header {
@@ -19,7 +20,7 @@
 
 .header2 {
   padding: 30px;
-  text-align: justify;
+  text-align: left;
   background: white;
 }
 

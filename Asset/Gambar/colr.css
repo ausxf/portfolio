@@ -11,6 +11,10 @@
 
 }
 
+.center {]
+  text-align: center;
+}
+
 .header {
   padding: 30px;
   font-size: 40px;

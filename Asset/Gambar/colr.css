@@ -11,9 +11,6 @@
 
 }
 
-.center {
-  text-align: center;
-}
 
 .header {
   padding: 30px;
@@ -26,6 +23,11 @@
   padding: 30px;
   text-align: left;
   background: white;
+}
+
+
+.ce{
+  text-align: center;
 }
 
 h2 {

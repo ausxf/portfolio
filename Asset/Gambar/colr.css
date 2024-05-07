@@ -13,8 +13,17 @@
 
 * {
     font-family: "Roboto", sans-serif;
-  
   }
+
+body {
+    margin-left: 133px;
+    margin-right: 133px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 
 
 .header {
